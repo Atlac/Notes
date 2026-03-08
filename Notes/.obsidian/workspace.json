@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "dfdb2245e4e23fe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "53f703a9ea5c4948",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "204509fc48798ffd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e94f93ce80d3ffd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a888acd3f1f29e77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1d11ccacba1478a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "334e9ca60c19fe66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5052422576e41f45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d175a748178f4c85",
+    "type": "split",
+    "children": [
+      {
+        "id": "851495b61e03d9ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb04bf0c00b7b7f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PND/Lesson 04 (Lab).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lesson 04 (Lab)"
+            }
+          },
+          {
+            "id": "905842d780af8816",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PND/Lesson 04 (Lab).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lesson 04 (Lab)"
+            }
+          },
+          {
+            "id": "d8266285c5161407",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "202bcaa0117db9a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "853c7494371ac2cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PND/Lesson 04 (Lab).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lesson 04 (Lab)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "204509fc48798ffd",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2026-03-05.md",
+    "PND/04-Traffic_monitoring_lab.pdf",
+    "PND/Lesson 04 (Lab).md",
+    "PND/Lesson 5.md",
+    "Programmable network",
+    "PND",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}
