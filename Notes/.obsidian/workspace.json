@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secure Computation/Lesson 6.md",
+                "file": "Secure Computation/Lesson 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 6"
+              "title": "Lesson 7"
             }
           }
         ]
@@ -185,11 +185,11 @@
   },
   "active": "204509fc48798ffd",
   "lastOpenFiles": [
-    "Secure Computation/Materials/SecComp2PC.pdf",
+    "PND/Lesson 5.md",
     "Secure Computation/Lesson 6.md",
+    "Secure Computation/Materials/SecComp2PC.pdf",
     "Secure Computation/Materials",
     "Secure Computation/Lesson 5.md",
-    "PND/Lesson 5.md",
     "PND/Lesson 04 (Lab).md",
     "05-IPv6_addressing.md",
     "PND/Materials/04-Traffic_monitoring_lab.pdf",

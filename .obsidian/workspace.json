@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/PND/Lesson 5.md",
+                "file": "Notes/Secure Computation/Lesson 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 5"
+              "title": "Lesson 7"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/PND/Lesson 5.md",
+                "file": "Notes/Secure Computation/Lesson 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lesson 5"
+              "title": "Backlinks for Lesson 7"
             }
           },
           {
@@ -185,11 +185,13 @@
   },
   "active": "7e35a972bdba4488",
   "lastOpenFiles": [
+    "Notes/Secure Computation/Lesson 6.md",
+    "Notes/Secure Computation/Lesson 7.md",
+    "Notes/PND/Lesson 5.md",
     "Notes/PND/Lesson 04 (Lab).md",
     "Notes/PND/Materials/04-Traffic_monitoring_lab.pdf",
     "Notes/PND/Materials/Pasted image 20260309101531.png",
     "Notes/PND/Materials",
-    "Notes/PND/Lesson 5.md",
     "Notes/PND/Lesson 03.md"
   ]
 }
