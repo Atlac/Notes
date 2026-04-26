@@ -1,0 +1,38 @@
+NS is the graph and NF are the nodes and the link is the connectivity 
+
+CHAIN = Service as a ordered sequence of NF to be applied to the packet.
+MESHED GRAPH used to model more complex NS 
+
+##### VNF-FG 
+virtual network function forwarding graph also referred as network slice
+
+steps:
+1. cloud resources: (CPU and Storage) must be provisioned to support the creation of VNFs
+2. network resources:(bandwidth and buffer) must be reserved for each virtual link
+3. switches need to be instructed on how to connect the VNFs
+ETSI MANO framework is the one who deal with this things.
+
+### VNF-FG Request
+The request is in the form of a VNF-FG, chosen between the one aviable on the [[Network Function Virtualization (NFV)#MANO|NFVO]] which will execute an algorothm to assess how to map the [[#VNF-FG]] to the underlying NFVI and uses:
+1. [[Network Function Virtualization (NFV)#MANO|VIM]]s to asses the resources aviability 
+2. reuse of already running VNF instances: The [[Network Function Virtualization (NFV)#MANO|VNFM]]s provide the current status of each VNF to the NFVO
+The creation of the links is organized by the WIM (wide area netwirk infrastructure)
+
+
+### VNF placement problem
+allocating cloud and bandwidth resources to perform VNF-FG mapping on the NFVI.
+
+**static traffic scenario:**
+1. bandwidth demands for each request don't change overtime
+2. VNF-FG don't change overtime
+3. number of set of request
+
+
+
+### VNF placement Heuristic
+NP-Hard
+greedy heuristic
+
+Two steps:
+1. mapping the VNFs leaving the smallest processing capacity available in the NFVI-PoP nodes 
+2. once the mapping is completed, logical links are mapped in the Substrate Graph by choosing the shortest paths

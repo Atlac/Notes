@@ -1,0 +1,11 @@
+{
+  "editor:add-cursor-below": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "F23"
+    }
+  ]
+}
