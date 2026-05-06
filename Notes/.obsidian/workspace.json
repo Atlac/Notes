@@ -11,10 +11,14 @@
             "id": "dec4b87c5a0adcd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PND/Proxy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Proxy"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d175a748178f4c85",
@@ -179,20 +184,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "c1d11ccacba1478a",
+  "active": "dec4b87c5a0adcd0",
   "lastOpenFiles": [
+    "PND/Proxy.md",
+    "Notes.md",
+    "Secure Computation/Materials/whiteboard_SC.pdf",
+    "Secure Computation/Arguments/Two-Party Secure computation for All Functions.md",
+    "Secure Computation/Arguments/The Model.md",
+    "Secure Computation/Arguments/Computational Inidstinguishability.md",
     "PND/IPsec.md",
     "Lesson 29-14-2026.md",
     "PND/TLS.md",
     "PND/Assignment 2.md",
-    "Secure Computation/Arguments/The Model.md",
-    "Secure Computation/Arguments/Computational Inidstinguishability.md",
     "Secure Computation/Arguments/Fundamental Concepts.md",
     "Secure Computation/Materials/Pasted image 20260429114949.png",
     "Computational.md",
     "computa.md",
     "Secure Computation/Materials/SecComp2PC.pdf",
-    "Secure Computation/Materials/whiteboard_SC.pdf",
     "Secure Computation/Lessons/Lesson 10.md",
     "Programmable network/6. Segment Routing.md",
     "Programmable network/1. Basics.md",
@@ -206,7 +214,6 @@
     "NFVO.md",
     "VNF-FG.md",
     "Untitled",
-    "Notes.md",
     "Programmable network/materials/Pasted image 20260423143819.png",
     "Programmable network/materials",
     "git.pub",
@@ -217,8 +224,6 @@
     "Secure Computation/Lessons/Lesson 7.md",
     "PND/Lesson 08.md",
     "PND/Lesson 04 (Lab).md",
-    "08-NewIPv6Security-Slides.pdf.md",
-    "PND/Lesson 5.md",
     "Untitled.canvas"
   ]
 }

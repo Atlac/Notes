@@ -1,4 +1,4 @@
-## Real World
+# Real World
 
 ### Network model
 
@@ -29,7 +29,7 @@
 
 
 
-## Ideal World
+# Ideal World
 
 
 
@@ -47,6 +47,8 @@
 Construct a simulator which fools the adversary into believing he is playing the real-world protocol, while making him effectively play the ideal world protocol. Then, we prove that no adversary can [^1]distinguish the simulated protocol from the real protocol.
 
 
+[^1]: in terms of  [Computational indistinguishability](obsidian://open?vault=Notes&file=Secure%20Computation%2FArguments%2FComputational%20Inidstinguishability)
+
 #### Secure Communication
 
 ##### Black board model (public communication)
@@ -61,6 +63,7 @@ Simulating Bob is harder, since the other party does not know $\chi_1$
 
 _Solution_
 encrypt an arbitrary value instead. The simulation is indistinguishable from the real world
-[^1]: in terms of computational indistinguishablility [Computational indistinguishability](obsidian://open?vault=Notes&file=Secure%20Computation%2FArguments%2FComputational%20Inidstinguishability)
 
+
+But in the real world the adversary can see the length of $x_1$ so to solve this problem we allow the leakage of $length(x1)$ to the adversary in the ideal world.
 
