@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dec4b87c5a0adcd0",
+            "id": "5b6bf9bdd90f0791",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PND/Proxy.md",
+                "file": "PND/Lesson 20-05-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proxy"
+              "title": "Lesson 20-05-2026"
+            }
+          },
+          {
+            "id": "ecddc910821cc9d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lesson 27-05-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 27-05-2026"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d175a748178f4c85",
@@ -184,24 +198,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "dec4b87c5a0adcd0",
+  "active": "ecddc910821cc9d7",
   "lastOpenFiles": [
+    "Secure Computation/Arguments/Two-Party Secure computation for All Functions.md",
+    "Lesson 27-05-2026.md",
+    "Secure Computation/Arguments/Computational Inidstinguishability.md",
+    "Secure Computation/Arguments/Fundamental Concepts.md",
+    "Secure Computation/Arguments/The Model.md",
+    "Lesson 20-05-2026.md",
+    "PND/Lesson 20-05-2026.md",
+    "Secure Computation/Lessons/Lesson 10.md",
+    "Secure Computation/Lessons/Lesson 9.md",
+    "Secure Computation/Lessons/Lesson 18-05-2026.md",
     "PND/Proxy.md",
     "Notes.md",
     "Secure Computation/Materials/whiteboard_SC.pdf",
-    "Secure Computation/Arguments/Two-Party Secure computation for All Functions.md",
-    "Secure Computation/Arguments/The Model.md",
-    "Secure Computation/Arguments/Computational Inidstinguishability.md",
     "PND/IPsec.md",
     "Lesson 29-14-2026.md",
     "PND/TLS.md",
     "PND/Assignment 2.md",
-    "Secure Computation/Arguments/Fundamental Concepts.md",
     "Secure Computation/Materials/Pasted image 20260429114949.png",
     "Computational.md",
     "computa.md",
     "Secure Computation/Materials/SecComp2PC.pdf",
-    "Secure Computation/Lessons/Lesson 10.md",
     "Programmable network/6. Segment Routing.md",
     "Programmable network/1. Basics.md",
     "Secure Computation/Arguments",
@@ -212,7 +231,6 @@
     "Programmable network/3. Network Function Virtualization (NFV).md",
     "VNF.md",
     "NFVO.md",
-    "VNF-FG.md",
     "Untitled",
     "Programmable network/materials/Pasted image 20260423143819.png",
     "Programmable network/materials",
@@ -220,10 +238,6 @@
     "git",
     "Programmable network",
     "PND/Assignment",
-    "Secure Computation/Lessons/Lesson 9.md",
-    "Secure Computation/Lessons/Lesson 7.md",
-    "PND/Lesson 08.md",
-    "PND/Lesson 04 (Lab).md",
     "Untitled.canvas"
   ]
 }
